@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マダラ蝶",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T05:45:49.732650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マダラ蝶",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/01_マダラ蝶_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マダラ蝶(ALL TIME BEST ver.)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_マダラ蝶(ALL_TIME_BEST_ver.)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マダラ蝶",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_マダラ蝶_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マダラ蝶",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_マダラ蝶_UVERworld.txt"
+    }
+  ]
+}
